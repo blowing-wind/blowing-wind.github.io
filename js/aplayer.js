@@ -6,7 +6,7 @@
       new APlayer({
         container: document.getElementById('aplayer'),
         fixed: true,
-        autoplay: false,
+        autoplay: true,
         loop: 'all',
         order: 'random',
         theme: '#b7daff',
