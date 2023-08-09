@@ -15,8 +15,8 @@
           {
             name: 'Happy birthday to Nan',
             artist: 'Nanxiaocheng',
-            url: '/songs/happy-birthday.mp3',
-            cover: '/img/cake.jpg'
+            url: '/songs/same_as_you.mp3',
+            cover: '/img/boai_1_r.jpg'
           }
         ]
       });
