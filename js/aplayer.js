@@ -13,9 +13,9 @@
         preload: 'none',
         audio: [
           {
-            name: 'Happy birthday to Nan',
+            name: '2024',
             artist: 'Nanxiaocheng',
-            url: '/songs/same_as_you.mp3',
+            url: '/songs/yueding.mp3',
             cover: '/img/boai_1_r.jpg'
           }
         ]
